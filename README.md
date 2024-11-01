@@ -1,4 +1,4 @@
-# cdc3217g_jlinkcmdgen
+# Micronas CDC3217G J-Link Commander "CommandFile" generator script
 JLink command file generator python script for flashing Micronas CDC3217G with J-Link
 
 Usage: python genJlinkCmdFile.py <inputFileName.bin> <outputFileName.jlink>
